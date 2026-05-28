@@ -61,23 +61,24 @@ README.md
 
 ✅ Visual analysis reveals strong trends in content growth, audience targeting, and entertainment preferences.
 
-📷 Sample Visualizations
-Content Distribution by Type
-Genre Popularity Analysis
-Ratings Distribution
-Release Year Trends
-Movie Duration Distribution
-Country-wise Content Analysis
-🎯 Project Outcome
+# 📷 Sample Visualizations
+* Content Distribution by Type
+* Genre Popularity Analysis
+* Ratings Distribution
+* Release Year Trends
+* Movie Duration Distribution
+* Country-wise Content Analysis
+  
+# 🎯 Project Outcome
 
 This project helped strengthen skills in:
 
-Data Cleaning
-Data Analysis
-Data Visualization
-Insight Generation
-Business Understanding
-Python for Data Analytics
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Insight Generation
+* Business Understanding
+* Python for Data Analytics
 
 
 🙏 Acknowledgment
