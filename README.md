@@ -1,12 +1,12 @@
-# Exploratory-Data-Analysis-EDA-Project---Netflix
-🚀 Netflix Data Analysis Project
+
+# 🚀 Netflix Data Analysis Project
 📌 Objective
 
 To analyze Netflix content data and uncover meaningful insights about movies, TV shows, genres, ratings, release trends, and global content distribution using Data Analytics and Visualization techniques.
 
 This project focuses on performing Exploratory Data Analysis (EDA) on Netflix data using Python. The analysis helps understand content patterns, audience categories, genre popularity, release trends, and duration analysis through visualizations and statistical insights.
 
-📂 Dataset
+# 📂 Dataset
 
 Dataset used: netflix_titles.csv
 
@@ -15,17 +15,17 @@ The dataset contains information related to:
 - Movies & TV Shows
 - Genres
 - Ratings
-Duration
-Countries
-Release Years
-Directors & Cast
-🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Duration
+- Countries
+- Release Years
+- Directors & Cast
+# 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 # 📊 Key Analysis Performed
 
 * ✔ Data Cleaning & Preprocessing
