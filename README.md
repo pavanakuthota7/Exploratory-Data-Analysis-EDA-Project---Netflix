@@ -12,9 +12,9 @@ Dataset used: netflix_titles.csv
 
 The dataset contains information related to:
 
-Movies & TV Shows
-Genres
-Ratings
+- Movies & TV Shows
+- Genres
+- Ratings
 Duration
 Countries
 Release Years
@@ -26,18 +26,18 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-📊 Key Analysis Performed
+# 📊 Key Analysis Performed
 
-✔ Data Cleaning & Preprocessing
-✔ Handling Missing Values
-✔ Exploratory Data Analysis (EDA)
-✔ Genre Analysis
-✔ Content Type Analysis
-✔ Ratings Analysis
-✔ Release Year Trend Analysis
-✔ Duration Analysis
-✔ Country-wise Content Distribution
-✔ Data Visualization & Insights
+* ✔ Data Cleaning & Preprocessing
+* ✔ Handling Missing Values
+* ✔ Exploratory Data Analysis (EDA)
+* ✔ Genre Analysis
+* ✔ Content Type Analysis
+* ✔ Ratings Analysis
+* ✔ Release Year Trend Analysis
+* ✔ Duration Analysis
+* ✔ Country-wise Content Distribution
+* ✔ Data Visualization & Insights
 
 📁 Files Included
 Netflix_EDA_Project.ipynb
